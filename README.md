@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![RenaWachsman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenaWachsman)]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenaWachsman)](https://github.com/anuraghazra/github-readme-stats)
 
