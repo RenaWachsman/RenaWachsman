@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I am Rena Wachsman. I am a computer science student with a passion for coding and technology. Skilled in programming, problem-solving, and building software. Excited to learn new things and create innovative solutions.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenaWachsman)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenaWachsman)](https://github.com/anuraghazra/github-readme-stats)
 
