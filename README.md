@@ -7,8 +7,8 @@
 - [ ] Learn New Things
 - [ ] Contribute to Impactful Projects
 - [ ] Create Innovative Solutions
-- [ ] Make a Difference
-- [X] Enjoy Every Minute of Life!
+- [ ] Make a Positive Difference
+- [X] Enjoy Life!
 
 ### Languages and Tools:
 Currently Using or Learning   
