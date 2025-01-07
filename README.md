@@ -1,22 +1,21 @@
-## Hi there 👋
+## Hi, 👋 I'm Rena Wachsman
 
-<!--
-**RenaWachsman/RenaWachsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I am a computer science student with a passion for coding and technology.  
+🖥 Skilled in programming, problem-solving, and building software.  
+💼 Currently employed as part of an I.T./Computers team at a small business.  
 
-Here are some ideas to get you started:
+#### My To Do's:
+- [ ] Learn New Things
+- [ ] Contribute to Impactful Projects
+- [ ] Create Innovative Solutions
+- [ ] Make a Difference
+- [X] Enjoy Every Minute of Life!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi, I am Rena Wachsman. I am a computer science student with a passion for coding and technology. Skilled in programming, problem-solving, and building software. Excited to learn new things and create innovative solutions.
+### Languages and Tools
+####### Currently Using or Learning
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Image description" width="40" height="40">        <img src="https://www.python.org/static/img/python-logo.png" alt="Image description" width="95" height="40">        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Image description" width="40" height="40">        <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="40" height="40"> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenaWachsman)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Take a Look at my Current Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenaWachsman)](https://github.com/anuraghazra/github-readme-stats)
 
